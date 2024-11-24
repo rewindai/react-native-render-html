@@ -42,17 +42,17 @@
     "svgo": "^2.3.0"
   },
   "resolutions": {
-    "react": "17.0.1",
-    "react-dom": "17.0.1",
+    "react": "^18",
+    "react-dom": "^18",
     "@mdx-js/react": "2.0.0-next.9",
-    "react-native": "0.64.2",
-    "react-native-webview": "11.13.0",
+    "react-native": "^0.74",
+    "react-native-webview": "^13.12.3",
     "@svgr/webpack": "5.5.0",
     "@svgr/babel-preset": "5.5.0",
     "@svgr/core": "5.5.0",
     "@svgr/hast-util-to-babel-ast": "5.5.0",
     "@svgr/plugin-svgo": "5.5.0",
-    "expo-linear-gradient": "10.0.3"
+    "expo-linear-gradient": "^14.0.1"
   },
   "workspaces": [
     "packages/*",
